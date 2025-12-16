@@ -182,6 +182,10 @@ users to draw data points with the mouse and automatically fits a
 polynomial curve using least squares and ridge (L2) regularization with 
 k-fold cross-validation.
 
+## Demo:
+
+![Interactive Polynomial Regression Demo](assets/demo.gif)
+
 ## Project Structure
 
 - `v1.py` - Main script containing the interactive regression system
